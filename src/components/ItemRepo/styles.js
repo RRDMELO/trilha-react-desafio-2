@@ -13,6 +13,7 @@ export const ItemContainer = styled.div`
         color: #FAFAFA60;
         margin-bottom:20px;
     }
+    
 
     a.remover {
         color: #FF0000;
